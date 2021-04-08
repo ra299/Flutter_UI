@@ -1,5 +1,9 @@
 # flutter_app_ui
 
+APP UI
+
+![Finished App](https://github.com/ra299/Flutter_Wallet_UI/blob/master/AppImg/Screenshot_2021-04-08-13-15-07-23.png)
+
 A new Flutter application.
 
 ## Getting Started
